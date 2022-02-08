@@ -1,0 +1,13 @@
+Goal of Day1 is to generate a Band Name.
+I learned abot printing, commenting, debugging, string manipulation and variables.
+
+Parenthesis indicates the begining and ending of the string.
+We can use both single and double quotes to print things.
+To move to new line : \n
+# is used for commenting.
+
+Rules for variable naming:
+1. Make code readable.(keep names that makes sense)
+2. No space between seperate words.(Use underscore)
+3. No number at the begining of the word.
+Don't use previleged words like print, input etc.
