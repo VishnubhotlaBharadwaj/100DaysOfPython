@@ -1,0 +1,16 @@
+Goal of Day 2 is to generate a tip calculator.
+I learned about Datatypes, numbers, operations, Type conversion, f-strings.
+
+Subscripting: Pulling out a particular character from a string.
+        print("Hello"[0]) = H
+
+To write a very bog number, we use commas like 123,456,789.
+But, in programming language, we can use underscores. 123_456_789. Both are same.
+
+To check type of a variable, use type()
+To convert a string into int, wrap it with int()
+Division always outputs a float value.
+To round a number use round(). To round to two numbers, use round( ,2)
+// : 8//3 = 2 => This is for floor division. Always outputs an integer value.
+
+f-string syntax: print(f" Your name is {name}")
