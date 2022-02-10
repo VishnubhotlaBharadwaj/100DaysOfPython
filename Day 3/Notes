@@ -1,0 +1,19 @@
+Goal of Day 3 is to code a way to treasure island.
+I learned about conditional statements, logical operators, codeblocks and scope.
+
+To print multiple block string at a time, use three single quotes.
+    Ex: print(''' ***Matter*** ''')
+'\' is used as a escape character.
+
+*** Code for leap year***
+if year % 4 == 0:
+  if year % 100 == 0:
+    if year % 400 == 0:
+      print("Leap year.")
+    else:
+      print("Not leap year.")
+  else:
+    print("Leap year.")
+else:
+  print("Not leap year.")
+
