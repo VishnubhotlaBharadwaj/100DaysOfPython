@@ -1,0 +1,14 @@
+Goal of Day 4 is to create Rock, Paper, and Scissors game.
+I learned about Randomisation and python lists.
+=> askpython.com is the best website to learn about python.
+
+random.randint(a,b) => Generates random numbers between a and b. (Including both od them([a,b]))
+random.random() => Gives floating point numbers from 0.0 to 0.9999.. i.e, [0,1)
+
+Lists:
+-> We can store any datatype.
+-> Supports both positive and negative indexing.
+-> To modify a value inside list; use list[0] = 'apple'
+list.append(): Adds a value at last of the list.
+To append a list at the end of list, use extend: list.extend(['apple','banana'])
+->We can have list inside list.
