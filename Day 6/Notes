@@ -1,0 +1,9 @@
+Goal of Day 6 isto instruct the karel to do a randomly generated maze.
+I learnt about code blocks, indentation, while loops and functions.
+
+for step in range(6) => executes the loop 6 times.
+
+for loop is very good for iteration cases.
+While loop is used, to carry some sort of functionality or to check condition.
+
+https://reeborg.ca/reeborg.html => this site is used for coding.

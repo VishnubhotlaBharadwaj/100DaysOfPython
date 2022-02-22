@@ -1,0 +1,11 @@
+Goal of Day 5 is to create a Password Generator program.
+I learned about python loops.
+
+=> Indentation is very important in for loop.
+=> Python has inbuilt functions for almost everything.. like sum(), len(), max(), min(), ....
+
+for num in range(a,b): => prints from a to b-1.
+for num in range(a,b,2): => starts from a, skips 2 values each and ends at b-1.
+
+=> random.choice() gives a random number from list.
+=> random.shuffle(), shuffles the given list in a random manner.oa
